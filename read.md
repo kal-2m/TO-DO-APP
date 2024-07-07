@@ -1,6 +1,4 @@
-Certainly! Let's go through each line and provide an explanation for the provided JavaScript code snippet:
-
-```javascript
+javascript
 const taskForm = document.getElementById("task-form");
 const confirmCloseDialog = document.getElementById("confirm-close-dialog");
 const openTaskFormBtn = document.getElementById("open-task-form-btn");
